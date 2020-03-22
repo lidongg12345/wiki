@@ -1,4 +1,4 @@
-#Zookeeper Could not find or load main class org.apache.zookeeper.server.quorum
+##Zookeeper Could not find or load main class org.apache.zookeeper.server.quorum
 
     This problem, because the package I have downloaded is incorrect. The correct package is xxx-3.6.0-bin.tar.gz;
     Today, I was preparing to download the bin package on the official website, but the speed was too slow(as you know), so I went to git's releases of zookeeper to download the release-3.6.0.tar.gz;

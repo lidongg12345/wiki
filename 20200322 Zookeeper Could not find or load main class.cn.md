@@ -1,4 +1,4 @@
-#Zookeeper Could not find or load main class org.apache.zookeeper.server.quorum
+##Zookeeper Could not find or load main class org.apache.zookeeper.server.quorum
 
     出现该问题时，是因为下载的版本不正确，正确的版本为xxx-3.6.0-bin.tar.gz；
     当时正准备在官网下这个文件，但下载速度实在太慢，便去zookeeper的git的releases下载了release-3.6.0.tar.gz；
